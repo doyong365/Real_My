@@ -1,0 +1,10 @@
+.details {
+  text-align : center;
+}
+.detail_title {
+  font-size : 40px;
+  font-weight : 300;
+}
+.poster img {
+  width : 30%;  
+}
